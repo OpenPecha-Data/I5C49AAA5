@@ -1,0 +1,20 @@
+id: I5C49AAA5
+default_language: it
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:30:37.749055
+last_modified: 2023-01-04 11:30:37.749074
+source_metadata:
+  collections:
+  - Chatral Rinpoche
+  - Works of Tibetan Masters
+bases:
+  A69B:
+    title: 'The Rishi''s Maledictory Incantation: An Invocation of Wisdom Mind and
+      Sacred Pledges for Reversing the Disturbances and Agitations of Dark Times In
+      the Form of an Aspiration Prayer'
+    base_file: A69B.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
